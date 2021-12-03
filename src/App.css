@@ -1,6 +1,9 @@
 .App {
-  background-color: #222;
   color: white;
+}
+
+.page {
+  background-color: rgb(30, 30, 30);
 }
 
 .body {
