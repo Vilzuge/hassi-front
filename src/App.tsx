@@ -19,9 +19,10 @@ const App: React.FC = () => {
         <PaymentSelection />
         <Footer />
 
-        <p>Maksa verkossa</p>
+        <p>Maksa verkossa!</p>
 
-        <p>2021 © PoWi RyToimitusehdot</p>
+        <p>2021 © PoWi Ry</p>
+        <p>Toimitusehdot</p>
       </div>
     </div>
   );
