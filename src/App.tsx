@@ -10,7 +10,7 @@ import './css/skeleton.css';
 
 const App: React.FC = () => {
   return (
-    <div className="App">
+    <div className="App container">
       <Cover />
       <HassiInfo />
       <AmountSelection />

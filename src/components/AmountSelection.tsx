@@ -1,6 +1,10 @@
 import { FunctionComponent } from 'react';
 
-const AmountSelection: FunctionComponent = () => {
+// interface AmountSelectionProps {
+//   amount: number;
+// }
+
+const AmountSelection: FunctionComponent = (props) => {
   return <div />;
 };
 
