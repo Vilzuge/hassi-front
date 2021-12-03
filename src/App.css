@@ -3,10 +3,29 @@
 }
 
 .page {
+  border-radius: 1%;
   background-color: rgb(30, 30, 30);
   padding: 4%;
 }
 
 .body {
   background-color: black;
+}
+
+.cover-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+@media only screen and (max-width: 500px) {
+  .cover-image {
+    width: 100%;
+  }
+}
+
+.cover-image-container {
+  margin: 10%;
 }

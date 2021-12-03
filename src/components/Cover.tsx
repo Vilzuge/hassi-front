@@ -3,8 +3,8 @@ import cover from '../img/haessi_kansi.png';
 
 const Cover: FunctionComponent = () => {
   return (
-    <div>
-      <img src={cover} alt="Kansikuva"></img>
+    <div className="cover-image-container">
+      <img className="cover-image" src={cover} alt="Kansikuva"></img>
     </div>
   );
 };
