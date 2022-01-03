@@ -9,6 +9,9 @@ import PaymentSelection from './components/PaymentSelection';
 import './css/skeleton.css';
 
 const App: React.FC = () => {
+  
+
+
   return (
     <div className="App container">
       <Cover />
